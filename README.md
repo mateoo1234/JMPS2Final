@@ -1,2 +1,2 @@
-# Jose Mateo Prieto Suanca
+# Jose Mateo Prieto Suanca el story
 Versión 1.0.1 - Hotfix aplicado para corregir errores críticos
